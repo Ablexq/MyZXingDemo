@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ZXingLib</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- 二维码扫描提示 -->
+    <string name="scan_text">将二维码置于扫描框内，即可自动识别</string>
+</resources>
